@@ -12,12 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=anurajrajak005&theme=moltack&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anurajrajak005&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anurajrajak005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anurajrajak005&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
